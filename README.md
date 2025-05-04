@@ -1,2 +1,2 @@
 # aws-examaples
-a code base for aws example used for AWS study courses 
+a code base for aws example used through  AWS study courses 
